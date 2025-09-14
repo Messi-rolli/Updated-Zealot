@@ -1,0 +1,12 @@
+opencv-python
+dlib
+imutils
+pygame
+twilio
+python-dotenv
+torch
+pandas
+tqdm
+seaborn
+ultralytics
+mediapipe 
